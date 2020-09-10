@@ -6,12 +6,12 @@ class User extends Component {
   render() {
     let list = [
       {
-        name: "Nataniel",
-        email: "nataniel.paiva@gmail.com",
+        name: "Kelly",
+        email: "kellyp.alves87@gmail.com",
       },
       {
-        name: "João",
-        email: "joao@gmail.com",
+        name: "Larissa",
+        email: "lari@gmail.com",
       },
     ];
 
